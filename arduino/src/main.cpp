@@ -20,6 +20,7 @@ float leerHumedadPlanta(int n);
 const int analogPin = 33;
 const int ledPin = 25;
 static const uint32_t GPSBaud = 9600;
+// ip de tu servidor y el ssid de tu wifi si usas la red local, reduerda poner el password si lo tiene
 const char* server = "54.227.149.158";
 const char* ssid = "PerezHurtado";
 int estado = 0;
