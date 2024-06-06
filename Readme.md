@@ -26,7 +26,7 @@ El curso presenta una inmersión e introducción al uso de arquitecturas y soluc
 10. Sistemas de Visualización 
 11. Ejercicios de Agentes y escritura de datos (trabajo independiente) 
 12. Arquitecturas de alta disponibilidad en Nube 
-13. Ejercicios prácticos de montaje con sensores vía WiFi 
+13. Ejercicios prácticos 
     
 ## Recursos laboratorios: 
 Laboratorio AWS Academy – el instructor les crea el salón virtual con una cuenta de AWS para el curso Sensores y microcontrolador – a discreción del estudiante si los posee, y en la sesión presencial se le suministrará un kit de trabajo 
