@@ -24,9 +24,13 @@ El curso presenta una inmersión e introducción al uso de arquitecturas y soluc
 8. Sistemas de ETL 
 9. Sistemas de Toma de decisiones 
 10. Sistemas de Visualización 
-11. Ejercicios de Agentes y escritura de datos (trabajo independiente) 
-12. Arquitecturas de alta disponibilidad en Nube 
+11. Ejercicios de Agentes y escritura de datos (trabajo independiente)
+12. Arquitecturas de alta disponibilidad en Nube
 13. Ejercicios prácticos 
     
 ## Recursos laboratorios: 
 Laboratorio AWS Academy – el instructor les crea el salón virtual con una cuenta de AWS para el curso Sensores y microcontrolador – a discreción del estudiante si los posee, y en la sesión presencial se le suministrará un kit de trabajo 
+
+# Agradecimientos
+
+Se dan los agradecimientos a Minciencias Colombia (https://minciencias.gov.co/) por la financiación del proyecto "Aplicación de la Tecnología IoT en la producción del Concreto" desarrollado para la empresa ARGOS S.A. en coejecución con la Universidad EAFIT y la Universidad Pontificia Bolivariana de la ciudad de Medellín, Colombia, el material es abierto al mundo y de libre uso y circulación y prentende colaborar con la difusión del conocimiento y apropiación de capacidades en el desarrollo de soluciones de Internet de las Cosas a nivel Regional en Latinoamérica.
